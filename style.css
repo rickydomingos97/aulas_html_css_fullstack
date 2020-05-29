@@ -4,3 +4,10 @@ body {
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+nav {
+    font-size: 18px;
+}
+img {
+    border-radius: 10px;
+}
