@@ -26,3 +26,7 @@ section#parceiros div {
     display: inline-block;
     margin: 50px;
 }
+
+h2 {
+    color: rgb(219, 174, 59);
+}
