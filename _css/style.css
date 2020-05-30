@@ -33,6 +33,7 @@ img {
 
 .img_services {
     margin: 30px;
+    width: 300px;
 }
 section#parceiros div {
     width: fit-content;
