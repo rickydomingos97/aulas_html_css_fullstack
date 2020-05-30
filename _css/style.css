@@ -22,11 +22,18 @@ img {
 }
 
 section#parceiros div {
-    width: 100px;
+    width: fit-content;
     display: inline-block;
-    margin: 50px;
+    padding: auto;
+    background-color: #d8d8d8;
+    position: relative;
+    align-content: center;
+    border-radius: 10px;
+    margin: 30px;
+    
 }
 
 h2 {
     color: rgb(219, 174, 59);
 }
+
