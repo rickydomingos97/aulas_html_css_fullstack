@@ -17,6 +17,10 @@ nav li {
     padding: 20px;
 }
 
+p {
+    font-size: 16px;
+}
+
 a {
     color: aqua;
     font-size: 14px;
